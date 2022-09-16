@@ -1,0 +1,26 @@
+.section{
+    background: #CE9461;
+    padding-bottom: 4rem;
+}
+
+.section__header{
+    padding: 4rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #eee;
+    font-size: 5rem;
+    gap: 2rem;
+}
+
+.section__h2{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 550;  
+}
+
+.section__wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
